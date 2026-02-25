@@ -1,7 +1,16 @@
 [
-    {
-        "title": "Sunucu Aktif!",
-        "text": "MineTopya dünyasına hoş geldiniz.",
-        "img_url": "https://raw.githubusercontent.com/iMortaluz/minecraft-duyuru/main/kapak.png",
-        "url": "https://minetopya.com"
-    }
+  {
+    "Baslik": "Yeni Sezon Başladı!",
+    "Icerik": "Skyblock 2.0 aktif edildi, hemen katıl.",
+    "Tarih": "Bugün",
+    "Renk": "#7C3AED",
+    "Ikon": ""
+  },
+  {
+    "Baslik": "Market İndirimi",
+    "Icerik": "Tüm VIP paketlerinde %25 indirim başladı.",
+    "Tarih": "Dün",
+    "Renk": "#10B981",
+    "Ikon": ""
+  }
+]
