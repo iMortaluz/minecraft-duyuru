@@ -1,16 +1,23 @@
 [
   {
-    "Baslik": "Yeni Sezon Başladı!",
-    "Icerik": "Skyblock 2.0 aktif edildi, hemen katıl.",
-    "Tarih": "Bugün",
+    "Baslik": "Kış Sezonu Başladı!",
+    "Icerik": "Özel kış kasaları ve yeni lobi aktif edildi. Hemen katıl!",
+    "Tarih": "2026-02-25 18:20",
     "Renk": "#7C3AED",
     "Ikon": ""
   },
   {
-    "Baslik": "Market İndirimi",
-    "Icerik": "Tüm VIP paketlerinde %25 indirim başladı.",
-    "Tarih": "Dün",
+    "Baslik": "Market İndirimi %25",
+    "Icerik": "Tüm VIP ve kredi paketlerinde büyük indirim başladı.",
+    "Tarih": "2026-02-25 15:45",
     "Renk": "#10B981",
-    "Ikon": ""
+    "Ikon": ""
+  },
+  {
+    "Baslik": "Sunucu Bakım Notları",
+    "Icerik": "Lag sorunları giderildi ve performans optimizasyonu yapıldı.",
+    "Tarih": "2026-02-24 22:10",
+    "Renk": "#E81123",
+    "Ikon": ""
   }
 ]
