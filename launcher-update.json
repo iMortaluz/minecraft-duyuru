@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/iMortaluz/minecraft-duyuru/releases/download/v1.0.1/iMortaluzLauncherSetup_1.0.1.exe",
+  "downloadUrl": "https://github.com/iMortaluz/minecraft-duyuru/releases/download/v1.0.1/iMortaluz.Launcher.Setup.exe",
   "sha256": "sha256:c84d8d6d14c42b201517087e91a970bdd148d8dc6058c218dfe244f2769807a6",
   "releaseNotes": "Bu sürümde Deneme yapıyom.",
   "silentArgs": "/SILENT"
